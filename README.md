@@ -20,3 +20,14 @@ Did you know that time doesn’t pass at the same rate for everyone? According t
 * **Why it happens:** Gravity also warps time. Stronger gravity slows down time, which means time passes a tiny bit faster on a mountain top than it does at sea level.
 * **The Takeaway:** Time is not absolute; it is completely relative to your speed and the gravity around you.
 
+
+# Daily Science Insight - Day 3
+
+### Title: Quantum Entanglement: Einstein's "Spooky Action at a Distance"
+
+Did you know that two particles can become so deeply connected that whatever happens to one instantly affects the other, even if they are on opposite sides of the universe? This is called Quantum Entanglement.
+
+* **The Phenomenon:** If you spin one entangled particle, the other one changes its spin instantly. It breaks the traditional laws of physics because the information seems to travel faster than the speed of light.
+* **Why Einstein Hated It:** Albert Einstein doubted this concept and famously called it "spooky action at a distance" because it challenged his theory that nothing can travel faster than light.
+* **The Future Tech:** Today, this "spooky" science is the foundation for developing ultra-secure quantum communication networks and next-generation quantum computers.
+
