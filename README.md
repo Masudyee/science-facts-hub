@@ -43,3 +43,15 @@ Did you know that it literally rains diamonds on planets like Jupiter and Saturn
 * **The Fate:** Unfortunately, as the diamonds sink further into the super-heated core of the planet, the temperature becomes so extreme that they eventually melt into a liquid diamond sea.
 
 
+# Daily Science Insight - Day 5
+
+### Title: Rogue Planets: The Lonely Orphans of the Cosmos
+
+Did you know that there are billions of planets wandering through the darkness of space without orbiting any star? These are called Rogue Planets, or orphan planets.
+
+* **How They Form:** These planets were once part of a normal solar system, just like Earth. However, during the chaotic early stages of their system's formation, they were violently kicked out into deep space by the gravitational pull of larger neighboring planets.
+* **The Atmosphere:** Without a host star, these planets are trapped in eternal darkness and are unimaginably cold on the surface. Yet, scientists believe some might have thick atmospheres or geothermal heat from their cores that could support underground oceans.
+* **Outnumbering Stars:** Space telescopes have revealed that there might actually be more rogue planets floating in our Milky Way galaxy than there are actual stars!
+
+
+
