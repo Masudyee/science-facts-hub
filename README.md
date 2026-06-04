@@ -54,4 +54,15 @@ Did you know that there are billions of planets wandering through the darkness o
 * **Outnumbering Stars:** Space telescopes have revealed that there might actually be more rogue planets floating in our Milky Way galaxy than there are actual stars!
 
 
+# Daily Science Insight - Day 6
+
+### Title: The Incredible Storage Capacity of the Human Brain
+
+Did you know that your brain has the ability to store an almost unlimited amount of information? Unlike a smartphone or computer that runs out of space, the human brain's storage capacity is staggeringly massive.
+
+* **The Digital Equivalent:** Scientists estimate that the human brain contains around 86 billion neurons. Each neuron forms thousands of connections, leading to a total storage capacity of roughly 2.5 petabytes (or 2,500,000 gigabytes).
+* **The Comparison:** To put this into perspective, if your brain worked like a digital video recorder, it could hold up to 3 million hours of high-definition TV shows. You would have to leave the TV running continuously for over 300 years to use up all that storage!
+* **Smart Management:** The brain never actually "fills up." Instead, it uses a process called synaptic pruning to automatically delete old, irrelevant information to make room for new memories and learning.
+
+
 
