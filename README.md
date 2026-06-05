@@ -65,4 +65,16 @@ Did you know that your brain has the ability to store an almost unlimited amount
 * **Smart Management:** The brain never actually "fills up." Instead, it uses a process called synaptic pruning to automatically delete old, irrelevant information to make room for new memories and learning.
 
 
+# Daily Science Insight - Day 7
+
+### Title: The Mariana Trench: Earth's Deepest and Most Mysterious Frontier
+
+Did you know that we know more about the surface of Mars than we do about the deepest parts of our own ocean? The Mariana Trench, located in the western Pacific Ocean, is the deepest known point on Earth.
+
+* **The Extreme Depth:** The lowest point, known as Challenger Deep, plunges nearly 11,000 meters (36,000 feet) down. If you dropped Mount Everest into the trench, its peak would still be covered by more than 2 kilometers of water.
+* **Crushing Pressure:** At the bottom, the water pressure is an incredible 1,000 times greater than the atmospheric pressure at sea level. This is equivalent to having an elephant standing on your thumb.
+* **Alien-like Life:** Despite the absolute darkness, freezing temperatures, and bone-crushing pressure, life still thrives there. Scientists have discovered bizarre, translucent creatures, giant amphipods, and unique bacteria that survive without any sunlight.
+
+
+
 
