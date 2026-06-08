@@ -97,6 +97,17 @@ Did you know that the largest living structure on Earth isn't a blue whale or a 
 * **The Invisible Engine:** Corals have a symbiotic relationship with tiny algae that live inside them. These algae use sunlight to produce food for the coral, giving the reef its breathtaking, vibrant colors.
 
 
+# Daily Science Insight - Day 10
+
+### Title: Glass Frogs: The Bizarre Creatures with Invisible Skin
+
+Did you know that there are frogs in the rainforests of Central and South America whose skin is so completely translucent that you can see their internal organs working from the outside? They are commonly known as "Glass Frogs."
+
+* **Natural X-Ray:** If you look at a glass frog from underneath, you can clearly see its beating heart, its liver, and even its digestive tract functioning in real-time, as if you are looking through a window.
+* **The Magic of Camouflage:** Their back is lime green, which helps them blend in perfectly with leaves. However, their translucent bellies are a defense mechanism; when sunlight passes through the leaf they are sitting on, it filters right through the frog's body, making them virtually invisible to predators below.
+* **The Sleep Trick:** Scientists recently discovered that when these frogs sleep, they hide about 90% of their red blood cells inside their liver. This makes their bodies even more transparent, allowing them to achieve ultimate invisibility while resting.
+
+
 
 
 
