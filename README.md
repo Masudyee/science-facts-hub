@@ -108,6 +108,17 @@ Did you know that there are frogs in the rainforests of Central and South Americ
 * **The Sleep Trick:** Scientists recently discovered that when these frogs sleep, they hide about 90% of their red blood cells inside their liver. This makes their bodies even more transparent, allowing them to achieve ultimate invisibility while resting.
 
 
+---
+
+## 🏁 Phase 1 Completed!
+
+> **Thank you for following along with Phase 1! We have successfully reached Day 10 and explored 10 incredible scientific facts together. This chapter is now officially closed, but the journey doesn't stop here.**
+
+🚀 **The adventure continues in [Science Facts Hub 2](https://github.com/)!** Head over to the new repository to catch Day 11 onwards and keep discovering the wonders of the universe. 
+
+*See you in Phase 2!* 🔬✨
+
+
 
 
 
